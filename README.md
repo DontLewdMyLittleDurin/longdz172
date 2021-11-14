@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @longdz172
-- 👀 I’m interested in c#
+- 👀 I’m interested in c# and c++
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
